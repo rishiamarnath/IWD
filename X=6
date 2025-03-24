@@ -1,0 +1,30 @@
+<!-- file name: ex6green.html -->
+<html>
+<head>
+<title>Green</title>
+</head>
+<body bgcolor="green" text = "white">
+<h2 align="center"> The Nature is green</h2>
+</body>
+</html>
+<!-- file name: ex6blue.html -->
+<html>
+<head>
+<title>Blue</title>
+</head>
+<body bgcolor="blue" text = "white">
+<h2 align="center"> The Sky is blue</h2>
+</body>
+</html>
+<!-- file name : ex6rgbFrame.html -->
+<html>
+<head>
+<title> Ex6
+Frames in
+</head>
+<frameset rows="33%,33%, *">
+<frame src="ex6red.html">
+<frame src="ex6green.html">
+<frame src="ex6blue.html">
+</frameset>
+</html
