@@ -1,0 +1,16 @@
+<HTML>
+<head><title>Ex1 - Text formatting
+</title></head>
+<body bgcolors"skyblue" text="darkblue">
+<h2>Text Formatting</h2>
+<p>This is a <b>bold</b> text example using the
+B tag. Similarly, <strong>this text is
+strong</strong>, making it more semantically
+important.</p>
+<p>This is <i>italicized</i> using the I tag,
+while <em>this is emphasized</em>.</p>
+<p>You can also apply a <mark
+class="highlight">highlight effect</mark> for
+emphasizing key terms.</p>
+</body>
+</html
