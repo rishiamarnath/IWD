@@ -1,0 +1,43 @@
+<html>
+<head>
+<title>Student Marksheet</title>
+</head>
+<body bgcolor=”lightpink”>
+<h2> Ex4- Creating Table in HTML </h2>
+<table border=1 cellspacing=5 cellpadding=5>
+<caption>Student Results</caption>
+<tr>
+<th rowspan=”2”>Subject</th>
+<th colspan=”2”>Marks</th>
+<th rowspan=”2”>Total</th>
+<th rowspan=”2”>Result</th>
+</tr>
+<tr>
+<th>CIA</th>
+<th>ESE</th>
+</tr>
+<tr>
+<td>Buisness Accounting</td>
+<td>24</td>
+<td>26</td>
+<td>50</td>
+<td bgcolor=”green”>Pass</td>
+</tr>
+<tr>
+<td>Human Resource Management</td>
+<td>20</td>
+<td>40c/td>
+Page No: 13
+<td>60</td>
+<td bgcolor=”green”>Pass</td>
+</tr>
+<tr>
+<td>Python Programming</td>
+<td>18</td>
+<td>28</td>
+<td>46</td>
+<td bgcolor=”Red”>Fail</td>
+</tr>
+</table>
+</body>
+</html
