@@ -1,0 +1,15 @@
+<html>
+<head>
+<title>Advertisement Company</title>
+</head>
+<body bgcolors"skyblue">
+<marquee><h1>Advertisement Company using
+Images</h1></marquee>
+<a href="1.jpg"><img src="1.jpg" width="200"></a>
+<a href="2.jpg"><img src="2.jpg" width="200"></a>
+<a href="3.jpg"><img src="3.jpg" width="200"></a>
+<a href="4.jpg"><img src="4.jpg" width="200"></a>
+<a href="5.jpg"><img src="5.jpg" width="200"></a>
+<P> Click on image to view large.
+</body>
+</html
