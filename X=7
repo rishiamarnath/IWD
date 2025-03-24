@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Sir Timothy John Berners-Lee</title>
+<style>
+body {
+font-family: sans-serif;
+}
+img {
+width: 150px;
+height: 180px;
+margin-right: 20px;
+float: left;
+border: 1px solid #ccc;
+}
+</style>
+</head>
+<body>
+<img src="TimBernersLee.jpg" alt="Passport Size Photo">
+<h1>Timothy John Berners-Lee</h1>
+<p><strong>Address:</strong> W3C/MIT/CSAIL 32 Vassar Streetm, Cambridge 
+MA
+02139, USA</p>
+<p><strong>Phone:</strong> 555-123-4567</p>
+<p><strong>Email:</strong> cos@timbl.com</p>
+<h3>Education</h3>
+<ul>
+<li>The Queen's College, Oxford (BA)</li>
+</ul>
+<h3>Field of Interest</h3>
+Page No: 27
+<ul>
+<li>Software Development</li>
+<li>Artificial Intelligence</li>
+<li>Data Science</li>
+</ul>
+</body>
+</html
