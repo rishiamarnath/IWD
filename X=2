@@ -1,0 +1,26 @@
+<htm1>
+<head>
+<title>Ex2 – Ordered and Unordered Lists </title>
+</head>
+<body bgcolor=”steelblue” text=”white”>
+<h1>Departmental Store Items</h1>
+<h2>Categories (Unordered List)</h2>
+<ul>
+<li>Groceries</li>
+<li>Electronics</li>
+<li>Clothing</li>
+<li>Home Essentials</li>
+<li>Personal Care</li>
+く/ul>
+<h2>Ordered List</h2>
+(0l>
+<li>Apples</1i>
+<li>Milk</li>
+<li>Bread</li>
+<li>Rice</li>
+<li>Soap</li>
+</ol>
+</body>
+</html>
+</body>
+</html
