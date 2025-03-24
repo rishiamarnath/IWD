@@ -1,0 +1,46 @@
+<!—file name: ex5red.html →
+<html>
+<head>
+<title>Red</title>
+</head>
+<body bgcolor=”red” text = “white”>
+<h2 align=”center”> The Blood is Red</h2>
+<a href=”ex5rgb.html”>Go Back</a>
+</body>
+</html>
+<!—file name: ex5green.html →
+<html>
+<head>
+<title>Green</title>
+</head>
+<body bgcolor=”green” text = “white”>
+<h2 align=”center”> The Nature is green</h2>
+<a href=”ex5rgb.html”>Go Back</a>
+</body?>
+</htm1>
+………………………….
+<!—file name: ex5blue.html→
+<html>
+<head>
+<title>Blue</title>
+</head>
+<body bgcolor=”blue” text = “white”>
+<h2 align=”center”> The Sky is blue</h2>
+<a href=”ex5rgb.html”>Go Back</a>
+Page No: 18
+</body>
+</html>
+……………………..
+<!—file name: ex5rgb.html →
+<html>
+<head>
+<title>Red, Green, Blue</title>
+</head>
+<body>
+<h2 align= center”> Click any link
+Below to see more…</h2>
+<li><a href=”ex5red.html”>Red</a>
+<li><a href=”ex5green.html”>Green</a>
+<li><a href=”ex5blue.html”>Blue</a>
+</body>
+</html
